@@ -9,7 +9,7 @@ body {
     align-items: center;
     place-items: center;
     margin: 50px;
-    gap: 30px;
+ 
   
     
 
@@ -54,7 +54,4 @@ p{
 }
 nav{
     padding: 30px;
-}
-.logo {
-    width: 150px;
 }
